@@ -209,9 +209,8 @@
             <div class="collapse navbar-collapse" id="myNavbar">
                 <ul class="nav navbar-nav navbar-right">
 
-                    <li><a href="#sourc">مراجع</a></li>
+                 
                     <li><a href="#data">جزوه های درسی</a></li>
-                    @*<li><a href="#contact">تهیه کنندگان</a></li>*@
                     <li><a href="#portfolio">دانشگاه های جهان</a></li>
                     <li><a href="#services">پروژه های دانشجویی</a></li>
                     <li><a href="#pricing">دروس</a></li>
