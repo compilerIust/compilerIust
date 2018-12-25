@@ -222,7 +222,7 @@
     </nav>
 
     <div class="jumbotron text-center">
-        <img class="img-responsive" src="~/Content/icon/compiler.jpg" />
+        <img class="img-responsive" src="Content/icon/compiler.jpg" />
         @*<h1>کامپایلر</h1>
             <p>.....................</p>
             <form>
